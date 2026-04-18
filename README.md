@@ -12,5 +12,6 @@ The source code for this implementation will be uploaded soon.
 # Citation
 You can find the paper on this research at the following:
     
-    K. Park and D.-H. Kim, “Accelerating Image Classification using Feature Map Similarity in Convolutional Neural Networks,” Applied Sciences, vol. 9, no. 1, p. 108, 2019.
+    K. Park, J. Kim, and H. S. Kim, “Quantifying the control lever displacement of construction equipment via QR code detection,” Measurement, vol. 258, part B, 2026. 
+    Doi: https://doi.org/10.1016/j.measurement.2025.119111
     
